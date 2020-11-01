@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+44<?xml version="1.0" encoding="UTF-8"?>
 <ServerConfig>
 	<NetConfig>
-		<IP>127.0.0.1</IP>
-		<PORT>9000</PORT>
+		<IP>0.0.0.0</IP>
+		<PORT>443</PORT>
 	</NetConfig>
 	<AuthConfig>
 		<NonSym>none</NonSym>
